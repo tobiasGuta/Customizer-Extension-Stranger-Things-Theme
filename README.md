@@ -7,3 +7,5 @@
 <img width="1601" height="881" alt="burpbappstore" src="https://github.com/user-attachments/assets/f8b557d2-5c18-4d87-af73-1f107df0afae" />
 
 <img width="1912" height="879" alt="exampleproxyhttp" src="https://github.com/user-attachments/assets/2b0a5a13-c9fa-45ee-990b-b91478f69ac4" />
+
+<img width="1916" height="880" alt="burprequestexample" src="https://github.com/user-attachments/assets/cface38a-3a8b-4818-b8ee-33286fd328df" />
