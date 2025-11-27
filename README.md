@@ -2,6 +2,8 @@
 
 ### Credits: https://github.com/portswigger/customizer
 
+/releases/BurpCustomizer.jar
+
 <img width="1600" height="878" alt="burpproxy" src="https://github.com/user-attachments/assets/d436f65f-fc76-401c-a82d-e01dd8d43ec5" />
 
 <img width="1603" height="884" alt="burprepeater" src="https://github.com/user-attachments/assets/14e0f3be-ebc0-409e-af9e-9d8b93e97d25" />
