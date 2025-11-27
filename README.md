@@ -9,3 +9,5 @@
 <img width="1912" height="879" alt="exampleproxyhttp" src="https://github.com/user-attachments/assets/2b0a5a13-c9fa-45ee-990b-b91478f69ac4" />
 
 <img width="1916" height="880" alt="burprequestexample" src="https://github.com/user-attachments/assets/cface38a-3a8b-4818-b8ee-33286fd328df" />
+
+<img width="1914" height="881" alt="intrudertab" src="https://github.com/user-attachments/assets/70b95945-3298-46a9-a0d1-a3bac3c10cca" />
