@@ -10,4 +10,6 @@
 
 <img width="1916" height="880" alt="burprequestexample" src="https://github.com/user-attachments/assets/cface38a-3a8b-4818-b8ee-33286fd328df" />
 
-<img width="1914" height="881" alt="intrudertab" src="https://github.com/user-attachments/assets/70b95945-3298-46a9-a0d1-a3bac3c10cca" />
+<img width="1912" height="886" alt="image" src="https://github.com/user-attachments/assets/50d44e3a-d546-45a3-9948-e24cd38396fa" />
+
+<img width="1914" height="878" alt="intruderattack" src="https://github.com/user-attachments/assets/d176408a-ab99-406b-bb43-ce2f46b745cc" />
